@@ -1,0 +1,23 @@
+Difference between kernel and shell
+https://www.geeksforgeeks.org/difference-between-shell-and-kernel/
+
+Why bash only?
+1.Bash shell is the advanced shell.
+2.bash is an sh-compatible shell that incorporates useful features from korn shell (ksh) and c shell(csh).
+
+echo $BASH
+ouput - #!/bin/bash - this is interpreter line or this is the bash name
+
+Bash shell scripting is used to automate tasks (Or any scripting can automate tasks).
+ 
+Shell scripts are interpreted and not compiled
+ 
+cat /etc/shells  -  to see how many shells our system support
+ 
+which bash
+
+1.Predefined variables
+a. BASH  b.BASH_VERSION c.HOME d.PWD
+e.g- echo $BASH
+
+2.

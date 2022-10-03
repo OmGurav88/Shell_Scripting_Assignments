@@ -1,0 +1,13 @@
+integer comparison
+-eq - is equal to - if I "Sa" -eq "Sb" 1
+-ne - is not equal to - if [ "Sa" -ne "sb" I
+-gt - is greater than - if I "Sa" -gt "Sb" 1
+-ge - is greater than or equal to if [ "Sa" -ge "Sb" 1
+-It - is less than - if [ "Sa" -lt "Sb" I
+-le - is less than or equal to WITH if [ "Sa" -le "Sb" I
+< - is less than - (("sa" < "Sb"))
+<= is less than or equal to - (("Sa" C "sb"))
+> is greater than - ( (("Sa" > "$b"))
+> - is greater than or equal to - ((Sa" X "Sb"))
+string comparison
+ = is equal to - if I "Sa" =
